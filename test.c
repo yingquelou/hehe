@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void)
 {
-    puts("hehe");
+    printf("Nice to meet you!\n");
     return 0;
 }
